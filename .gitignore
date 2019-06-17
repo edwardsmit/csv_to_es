@@ -29,7 +29,7 @@ csv_to_es-*.tar
 *.csv
 
 # Ignore build-target
-csv_to_es
+/csv_to_es
 
 # Ignore local data dir
 /data/
